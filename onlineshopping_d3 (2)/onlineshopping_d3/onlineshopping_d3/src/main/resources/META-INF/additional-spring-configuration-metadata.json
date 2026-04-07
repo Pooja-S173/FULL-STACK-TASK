@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.thymeleafe.prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.thymeleafe.prefix'"
+  },
+  {
+    "name": "spring.thymeleafe.suffix",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.thymeleafe.suffix'"
+  }
+]}
